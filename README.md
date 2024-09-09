@@ -1,8 +1,12 @@
-# React + Vite
+# Component Reusability App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto es una aplicación web que demuestra cómo reutilizar componentes en React, siguiendo la estructura especificada en la imagen proporcionada. La aplicación está construida utilizando React, HTML y CSS. También puedes incorporar Bootstrap o utilizar hojas de estilo personalizadas para el diseño.
 
-Currently, two official plugins are available:
+## Tecnologías Utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React**: Biblioteca de JavaScript para construir interfaces de usuario y reutilizar componentes.
+- **HTML**: Lenguaje de marcado para estructurar la aplicación.
+- **CSS**: Lenguaje de estilos para la presentación y diseño de la aplicación.
+- **Bootstrap** (opcional): Biblioteca de CSS para un diseño responsive y estilizado. Se puede incorporar para facilitar el diseño o se pueden usar hojas de estilo personalizadas.
+## Para verlo
+https://7listadeempleados.netlify.app
